@@ -4,7 +4,7 @@
 
 ### How to run  
 
-* [Download release 1.0](bowling-1.0-all.jar)
+* [Download release 1.0](https://github.com/steffbo/bowling/releases/download/1.0/bowling-1.0-all.jar)
 * Open terminal
 * Navigate to download directory
 * `java -jar bowling-1.0-all.jar` 
