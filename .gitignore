@@ -1,0 +1,11 @@
+.idea
+.gradle
+build
+*.iws
+out/
+.idea_modules/
+*.iml
+out
+gen
+target
+hs_err_pid*
